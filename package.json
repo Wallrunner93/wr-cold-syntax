@@ -1,0 +1,11 @@
+{
+  "name": "wr-cold-ui",
+  "theme": "ui",
+  "version": "0.51.1",
+  "description": "A cool theme for Atom",
+  "license": "Wr Games Studio",
+  "repository": "",
+  "engines": {
+    "atom": ">0.40.0"
+  }
+}
